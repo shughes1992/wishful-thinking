@@ -1,0 +1,26 @@
+{
+  "name": "wishful-thinking",
+  "version": "1.0.0",
+  "description": "Node app with Express, MySQL  &amp; Handlebars listing all of my wishes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shughes1992/wishful-thinking.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shughes1992/wishful-thinking/issues"
+  },
+  "homepage": "https://github.com/shughes1992/wishful-thinking#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.15.0"
+  }
+}
